@@ -2,7 +2,7 @@
 
 
 
-!\[Push Stage version to DockerHub](https://github.com/CosGeHoh/var\_keeper/actions/workflows/staging.yml/badge.svg)
+!\[Push Stage version to DockerHub](https://github.com/CosGeHoh/var\_keeper/actions/workflows/staging.yml/badge.svg) !\[Docker Image Version](https://img.shields.io/docker/v/CosGeHoh/var\_keeper?sort=date\&label=build%20for%20commit)
 
 
 
