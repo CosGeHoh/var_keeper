@@ -2,7 +2,7 @@
 
 
 
-!\[Push Stage version to DockerHub](https://github.com/CosGeHoh/var_keeper/actions/workflows/staging.yml/badge.svg)
+https://github.com/CosGeHoh/var_keeper/actions/workflows/staging.yml/badge.svg
 
 
 
